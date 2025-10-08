@@ -1,29 +1,84 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"> Hi, I am a Full Stack Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-dev320&label=Profile%20views&color=0e75b6&style=flat" alt="umair-dev320" /> </p>
+# <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair-dev320" alt="umair-dev320" /></a> </p>
+<img align="right" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
 
-- 🔭 I’m currently working on [ititans.com](https://ititans.com/)
+- 🚀 I’m a Full Stack Developer.
+- 💪 I have a rich background in web development.
+- 📢 Love to learn & share with the community.
+- 💬 Ask me about anything, I'll be happy to help.
+- 🤝 Love to make new connections.
 
-- 🌱 I’m currently learning **Nestjs,Docker,AWS.**
 
-- 👯 I’m create the e-commerce app [food-order](https://ordernow-xi.vercel.app/)
-
-- 🤝I’m also working on [khub.biz](https://khub.biz/)
-
-- 📫 How to reach me **umairmanzoor320@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-umair-953014248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-umair-953014248/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/muhammad.umair.320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammad.umair.320/" height="30" width="40" /></a>
+  <img src="artificial-intelligence.gif" alt="Artificial Intelligence" title="Artificial Intelligence" width="75" height="75" />
+  <img src="leadership.gif" alt="Leadership" title="Leadership" width="75" height="75"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development;Web,%20Mobile%20Development;UX/UI%20Engineering;AI/ML%20Engineering;I%20Love%20Coding;Back-End%20Engineering;Front-End%20Engineering;Professional%20Teamwork%20Experience;Always%20Learning%20New%20Techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair-dev320&show_icons=true&locale=en&layout=compact" alt="umair-dev320" /></p>
+# <img src="working.gif" width="45" /> My Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umair-dev320&show_icons=true&locale=en" alt="umair-dev320" /></p>
+<p align="center">
+<table align="center">
+  <tr height="80">
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" title="React" alt="React" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" title="Redux" alt="Redux" width="55" height="55" />
+    </td>
+    <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs" />
+                <br>Next.js
+            </td>
+    <td align="center" width="90">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" title="Express" alt="Express" width="48" height="48" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="Nest.js" alt="Nest.js" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript" alt="JavaScript" width="55" height="55" />
+    </td>
+  </tr>
+  <tr height="80">
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" title="TypeScript" alt="TypeScript" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/color/2x/html-5.png" title="HTML" alt="html" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/color/2x/css3.png" title="CSS" alt="css" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" title="Bootstrap" alt="Bootstrap" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" title="Material UI" alt="Material UI" width="48" height="55" />
+    </td>
+      <td align="center" width="90">
+      <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" alt="MongoDB" width="55" height="55" />
+    </td>
+  </tr>
+  <tr height="80">
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="RESTful API" alt="RESTful API" width="55" height="55" />
+    </td>
+    <td align="center" width="90">
+      <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="55" height="55" />
+    <td align="center" width="90">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="55" height="55" />
+    </td>
+
+  </tr>
+</table>
+</p>
