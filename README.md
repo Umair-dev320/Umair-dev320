@@ -16,7 +16,7 @@
   <img src="leadership.gif" alt="Leadership" title="Leadership" width="75" height="75"/>
 </p>
 
-![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development;Web,%20Mobile%20Development;UX/UI%20Engineering;AI/ML%20Engineering;I%20Love%20Coding;Back-End%20Engineering;Front-End%20Engineering;Professional%20Teamwork%20Experience;Always%20Learning%20New%20Techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=bold&pause=1000&color=4C076B&width=435&lines=Full-Stack+Development+;Web%2C+Mobile+Development;UX%2FUI+Engineering+;I+Love+Coding+;Back-End+Engineering+;Front-End+Engineering+;Professional+Teamwork+Experience)](https://git.io/typing-svg)
 
 # <img src="working.gif" width="45" /> My Stack
 
